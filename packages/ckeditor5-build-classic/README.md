@@ -75,5 +75,5 @@ Licensed under the terms of [GNU General Public License Version 2 or later](http
 
 TO PUBLISH
 npm run build
- npm publish --registry=https://www.myget.org/F/regmaxlibraries/npm/
+npm publish --registry=https://www.myget.org/F/regmaxlibraries/npm/
  
